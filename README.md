@@ -1,6 +1,6 @@
 # MCS — Midi Cast Switcher
 
-A compact macOS utility for the Friedrichstadt-Palast Berlin that automates Nuendo track version switching based on daily cast assignments.
+A compact macOS utility for live shows that automates Nuendo track version switching based on daily cast assignments.
 
 ## What it does
 
@@ -34,9 +34,9 @@ MCS then calculates the full sequence automatically:
 2. Unzip and move `Midi Cast Switcher.app` to your Applications folder
 3. On first launch: right-click → Open (to bypass Gatekeeper on unsigned builds)
 
-### Pre-configured setup (BLINDED by DELIGHT)
+### Pre-configured setup
 
-The release includes a `config.json` with the full role/track/member configuration for *BLINDED by DELIGHT* at Friedrichstadt-Palast.
+The release includes a `config.json` with an example role/track/member configuration.
 
 To use it, place the file here:
 
